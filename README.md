@@ -1,6 +1,7 @@
 # Covid-19 Data Cleaning and Visualizations
 #### Authors - Simran Kota and Suvechhya Pokhrel
 
+
 ## Our research Question:
 How has COVID-19 spread since the first case was discovered? How has the trend changed since the introduction of key intervention measures such as social distancing, mask requirements, vaccinations, and more?
 
@@ -12,5 +13,8 @@ While some variables are updated daily, others are updated weekly or periodicall
 ## Example Visualization
 
 Add images from our visualization
+
+### Please click here to view the code for our project
+https://mybinder.org/v2/gh/simrankota/comp4447_finalproject/HEAD
 
 
