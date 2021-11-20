@@ -15,6 +15,6 @@ While some variables are updated daily, others are updated weekly or periodicall
 Add images from our visualization
 
 ### Please click here to view the code for our project
-https://mybinder.org/v2/gh/simrankota/comp4447_finalproject/HEAD
+https://mybinder.org/v2/gh/simrankota/comp4447_finalproject/blob/main/final_project.ipynb/HEAD
 
 
