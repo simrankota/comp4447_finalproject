@@ -10,9 +10,9 @@ For this project we will be working with the Our World in Data COVID-19 Dataset.
 A full description of the data sources included in this dataset can be found at the official [Github Repository](https://github.com/owid/covid-19-data/tree/master/public/data/) for the dataset. 
 While some variables are updated daily, others are updated weekly or periodically depending on the availability of data from the official sources.
 
-## Example Visualization
+## Requirements
 
-Add images from our visualization
+A list of the packages required to run the code in this project can be found in the attached requirements.txt file.
 
 ### Please click here to view the code for our project
 https://mybinder.org/v2/gh/simrankota/comp4447_finalproject/blob/main/final_project.ipynb/HEAD
