@@ -15,6 +15,6 @@ While some variables are updated daily, others are updated weekly or periodicall
 A list of the packages required to run the code in this project can be found in the attached requirements.txt file.
 
 ### Please click here to view the code for our project
-https://mybinder.org/v2/gh/simrankota/comp4447_finalproject/blob/main/final_project.ipynb/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simrankota/comp4447_finalproject/blob/main/final_project.ipynb/HEAD)
 
 
