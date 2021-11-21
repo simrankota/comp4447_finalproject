@@ -2,3 +2,5 @@ pandas
 matplotlib.pyplot
 seaborn
 numpy
+plotly
+chart_studio
